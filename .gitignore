@@ -1,0 +1,11 @@
+*.step
+*.PrjPcbStructure
+/GeneralPCB/Project Logs for TrickleVent
+/GeneralPCB/__Previews
+/GeneralPCB/History
+/PhotosensorPCB/__Previews
+/PhotosensorPCB/Project Logs for PhotosensorPCB
+/PhotosensorPCB/History
+/PhotosensorPCB2/Project Logs for PhotosensorPCB2
+/PhotosensorPCB2/__Previews
+/PhotosensorPCB2/History
