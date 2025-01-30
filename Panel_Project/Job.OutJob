@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -47,9 +47,9 @@ Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\SmartHomeByKulygin\TrickleVent\TrickleVent-device\Panel_Project\panel.PcbDoc
 
 [PublishSettings]
-OutputFilePath1=Project Outputs for Free Documents\
-ReleaseManaged1=1
-OutputBasePath1=Project Outputs for Free Documents
+OutputFilePath1=D:\SmartHomeByKulygin\TrickleVent\TrickleVent-device\Panel_Project\Gerber\
+ReleaseManaged1=0
+OutputBasePath1=Gerber\
 OutputPathMedia1=
 OutputPathMediaValue1=
 OutputPathOutputer1=[Output Type]
@@ -62,7 +62,7 @@ OutputFileNameSpecial1=
 OpenOutput1=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath1=Project Outputs for Free Documents\
+RelativeOutputPath1=D:\SmartHomeByKulygin\TrickleVent\TrickleVent-device\Panel_Project\Gerber\
 OpenOutputs1=1
 AddToProject1=1
 TimestampFolder1=0
